@@ -1,0 +1,22 @@
+.flex{
+	display: flex;
+	flex-direction: column;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	padding-top: 2%;
+}
+
+section{
+	display: grid;
+	grid-gap: 0px;
+}
+
+div.b_bottom{	
+	border-bottom: 2px solid black;
+}
+
+div.b_right{
+	border-right: 2px solid black;
+}
